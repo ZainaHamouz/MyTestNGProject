@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="154394" started-at="2021-10-17T18:02:08Z" finished-at="2021-10-17T18:04:42Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="154394" started-at="2021-10-17T18:02:08Z" finished-at="2021-10-17T18:04:42Z">
+      <class name="TestNGpackage.TestNGTask">
+        <test-method status="PASS" signature="init()[pri:0, instance:TestNGpackage.TestNGTask@3a82f6ef]" name="init" is-config="true" duration-ms="122230" started-at="2021-10-17T21:02:08Z" finished-at="2021-10-17T21:04:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="creatnewaccount()[pri:1, instance:TestNGpackage.TestNGTask@3a82f6ef]" name="creatnewaccount" duration-ms="18085" started-at="2021-10-17T21:04:10Z" finished-at="2021-10-17T21:04:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creatnewaccount -->
+        <test-method status="PASS" signature="signin()[pri:2, instance:TestNGpackage.TestNGTask@3a82f6ef]" name="signin" duration-ms="13778" started-at="2021-10-17T21:04:28Z" finished-at="2021-10-17T21:04:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signin -->
+      </class> <!-- TestNGpackage.TestNGTask -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
